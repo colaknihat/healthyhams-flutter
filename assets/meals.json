@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Steak",
+      "protein_g": "25.0",
+      "carbohydrates_total_g": "10.0",
+      "fat_total_g": "20.0",
+      "calories": "300.0"
+    },
+    {
+      "name": "Chicken Salad",
+      "protein_g": "30.0",
+      "carbohydrates_total_g": "15.0",
+      "fat_total_g": "10.0",
+      "calories": "250.0"
+    },
+    {
+      "name": "Pasta",
+      "protein_g": "10.0",
+      "carbohydrates_total_g": "40.0",
+      "fat_total_g": "15.0",
+      "calories": "350.0"
+    }
+  ]
